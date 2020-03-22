@@ -1,0 +1,22 @@
+<?php return array (
+  'add_new_ip_filter' => 'Adicionar novo filtro IP',
+  'added' => 'Filtro de IP adicionado.',
+  'could_not_find' => 'Não foi possível encontrar o filtro IP selecionado',
+  'delete_ip_filter' => 'Excluir filtro IP',
+  'deleted' => 'Filtro IP excluído.',
+  'description' => 'Descrição',
+  'edit_ip_filter' => 'Editar filtro IP',
+  'end_ip' => 'Endereço de IP final',
+  'end_ip_in_range' => 'End IP está no alcance de outro IP.',
+  'invalid_ip_range' => 'Este não é um intervalo de Ip válido',
+  'ip_filter' => 'Filtro IP',
+  'ip_filter_list' => 'Lista de filtros IP',
+  'other_ip_in_range' => 'Outro IP está no alcance do IP inserido',
+  'start_ip' => 'Endereço de IP Inicial',
+  'start_ip_in_range' => 'O IP inicial está no alcance de outro IP',
+  'start_ip_same' => 'O IP de início é o mesmo que outro IP',
+  'tip_ip_filter' => 'Se o Filtro de IP estiver ativado na configuração do sistema e os IPs estiverem listados abaixo na tabela, o aplicativo poderá ser acessado somente por meio desses IPs listados. Você pode listar vários IPs que podem acessar o aplicativo. Neste caso, todos os outros IPs serão impedidos de acessar seu aplicativo. Nota: Sempre insira seu IP na lista para que você possa acessar seu aplicativo. ',
+  'updated' => 'Filtro de IP atualizado.',
+  'module_info_title' => 'Adicione alguns filtros IP aqui!',
+  'module_info_description' => 'Evitar o acesso não autorizado, definindo a lista de IPs que podem acessar o aplicativo.'
+);
