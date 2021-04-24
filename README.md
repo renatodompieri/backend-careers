@@ -1,9 +1,11 @@
-This is the assessment made for **Talentify**
-
 Author          : Renato Beltrão
+
 Author Email    : dompieri.renato@gmail.com
+
 Skype           : renatodompieri
+
 Website         : https://kodity.com
+
 Phone           : +55 17 9 8102 6294
 
 --------------------------------------------
